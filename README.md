@@ -5,3 +5,4 @@
 - [1주차](/docs/kubernetes-basic-inflearn/week1.md)
 - [2주차](/docs/kubernetes-basic-inflearn/week2.md)
 - [3주차](/docs/kubernetes-basic-inflearn/week3.md)
+- [4주차](/docs/kubernetes-basic-inflearn/week4.md)
