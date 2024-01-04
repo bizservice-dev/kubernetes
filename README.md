@@ -8,8 +8,7 @@
 - [4주차](/docs/kubernetes-basic-inflearn/week4.md)
 - [5주차](/docs/kubernetes-basic-inflearn/week5.md)
 
-<br/>
-
 ## 쿠버네티스 인 액션
 
-- Chapter 3
+- [3장. 파드](/docs/kubernetes-in-action/chapter3.md)
+- 
