@@ -11,4 +11,4 @@
 ## 쿠버네티스 인 액션
 
 - [3장. 파드](/docs/kubernetes-in-action/chapter3.md)
-- 
+- [8장. Downward API / Kubernetes REST API](/docs/kubernetes-in-action/chapter8.md)
